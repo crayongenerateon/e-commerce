@@ -10,7 +10,8 @@ class Register extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('register');		
+		$data['main'] = 'auth/register';
+		$this->load->view('layout', $data);		
 	}
 
 }
