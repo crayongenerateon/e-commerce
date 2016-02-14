@@ -23,7 +23,7 @@
 					</ul>
 					<ul class="support">
 						<li class="van"><a href="#"><label> </label></a></li>
-						<li><a href="#">Gratis biaya <span class="live">pengiriman coy</span></a></li>
+						<li><a href="#">Gratis biaya <span class="live">pengiriman</span></a></li>
 					</ul>			
 					<div class="clearfix"> </div>
 				</div>				
